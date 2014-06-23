@@ -3,7 +3,7 @@ bash-shell
 
 Cool utilities for your bash terminal
 
-![Screenshot][screenshot.png]
+![Screenshot](screenshot.png)
 
 Installation:
 
